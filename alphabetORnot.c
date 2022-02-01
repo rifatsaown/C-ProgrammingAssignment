@@ -1,6 +1,6 @@
 //Character is an alphabet or not
 #include <stdio.h>
-int main()
+main()
 {
     char ch;
     printf("Enter a character: ");
@@ -13,5 +13,4 @@ int main()
     {
         printf("%c is not an alphabet",ch);
     }
-    return 0;
 }

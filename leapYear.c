@@ -1,6 +1,6 @@
 // inputted year is leap year or not
 #include<stdio.h>
-int main()
+main()
 {
     int leapYear;
     printf("Enter a year: ");

@@ -1,6 +1,6 @@
 //Multiplication table of a number
 #include<stdio.h>
-int main()
+main()
 {
     int num,i,j;
     printf("Enter a number: ");
