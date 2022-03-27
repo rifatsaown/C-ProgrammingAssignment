@@ -4,13 +4,13 @@ main()
 {
     char ch;
     printf("Enter a character: ");
-    scanf("%c",&ch);
-    if(ch>='a' && ch<='z')
+    scanf("%c", &ch);
+    if (ch >= 'a' && ch <= 'z')
     {
-        printf("%c is an alphabet",ch);
+        printf("%c is an alphabet", ch);
     }
     else
     {
-        printf("%c is not an alphabet",ch);
+        printf("%c is not an alphabet", ch);
     }
 }
